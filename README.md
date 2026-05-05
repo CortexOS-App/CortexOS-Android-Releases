@@ -52,7 +52,7 @@ If the value does not match the one in the release notes, do not install the APK
 
 ## Reporting a security issue
 
-If you believe a published APK is tampered with, or if you've found a security issue in CortexOS, email **info@cortexos.app**.
+If you believe a published APK is tampered with, or if you've found a security issue in CortexOS, email **support@cortexos.app**.
 
 ## Why we do this
 
