@@ -7,7 +7,7 @@ The CortexOS source code is not open source. This repository exists solely so us
 ## Where to download
 
 The latest release is always available at:
-**https://github.com/CortexOS-App/CortexOS-Android-Releases/releases/latest**
+**https://github.com/CortexOS-HQ/CortexOS-Android-Releases/releases/latest**
 
 For most users, install through Google Play instead:
 **https://play.google.com/store/apps/details?id=com.cortexos.app**
@@ -67,7 +67,7 @@ For full architecture details:
 ## Open-source crypto layer
 
 The cryptographic core that protects your data is open source under MIT at:
-**https://github.com/CortexOS-App/CortexOS-crypto-core**
+**https://github.com/CortexOS-HQ/CortexOS-crypto-core**
 
 ## Llama 3.2 model usage
 
